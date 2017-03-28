@@ -1,0 +1,23 @@
+{
+  "name": "forms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianfonolla/forms.git"
+  },
+  "keywords": [],
+  "author": "Cristian <cristian.fonolla@gmail.com> (https://github.com/cristianfonolla)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianfonolla/forms/issues"
+  },
+  "homepage": "https://github.com/cristianfonolla/forms#readme",
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}
