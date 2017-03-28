@@ -2,7 +2,7 @@
   "name": "cristian-forms",
   "version": "1.0.0",
   "description": "",
-  "main": "src/Form.js",
+  "main": "dist/Form.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src --presets babel-preset-es2015 --out-dir dist"
@@ -20,5 +20,9 @@
   "homepage": "https://github.com/cristianfonolla/forms#readme",
   "dependencies": {
     "axios": "^0.15.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0"
   }
 }
